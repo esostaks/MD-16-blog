@@ -1,10 +1,14 @@
-# html_ts_boilerplate
-To start coding open your terminal and write
+Navigate to MD-16-blog-main\html_ts_boilerplate-master\vite-project and run:
 ```
 npm i
 ```
 
-When all packages have been installed run:
+Navigate to MD-16-blog-main\html_ts_boilerplate-master\vite-project and run:
 ```
-npm start
+npm run dev 
+```
+
+Navigate to MD-16-blog-main\html_ts_boilerplate-master\vite-project and run:
+```
+json-server --watch db.json --port 3004 
 ```
